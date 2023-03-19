@@ -1,0 +1,59 @@
+.makan{
+    background-color: #19A7CE;
+    margin-right: 20px;
+    margin: 20px;
+  padding: 1em;
+border-radius: 10px;
+}
+.minum{
+    background-color: #62CDFF;
+    margin-right: 20px;
+    padding: 1em;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.haha{
+    background-color: #539165;
+    margin-right: 20px;
+    padding: 1em;
+    border-radius: 10px;
+    
+}
+
+.hoho{
+    background-color: #F7C04A;
+    margin-right: 20px;
+    padding: 1em;
+    border-radius: 10px;
+}
+.kosong{
+    background-color: red;
+    margin-right: 20px;
+    padding: 1em;
+    border-radius: 10px;
+
+}
+.container{
+    margin-top: 100px;
+    padding: 1em;
+    border-radius: 10px;
+}
+.mama{
+   
+}
+
+.control::placeholder{
+        font-family: monospace;
+      font-size: 10pt;
+      text-align: left;
+      text-transform: uppercase;
+      font-weight: bolder;
+}
+
+
+
+#maam{
+    background-color: #C9EEFF;
+
+}
